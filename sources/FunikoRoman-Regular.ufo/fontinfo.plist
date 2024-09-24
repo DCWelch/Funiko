@@ -5,7 +5,7 @@
     <key>familyName</key>
     <string>Funiko Roman</string>
     <key>styleName</key>
-    <string>Roman</string>
+    <string>Regular</string>
     <key>styleMapFamilyName</key>
     <string>Funiko</string>
     <key>styleMapStyleName</key>
@@ -29,7 +29,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2024/09/24 12:21:32</string>
+    <string>2024/09/24 19:01:58</string>
     <key>openTypeHheaAscender</key>
     <integer>802</integer>
     <key>openTypeHheaDescender</key>
@@ -211,9 +211,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>postscriptFontName</key>
     <string>FunikoRoman-Regular</string>
     <key>postscriptFullName</key>
-    <string>Funiko Roman Regular</string>
+    <string>Funiko</string>
     <key>postscriptWeightName</key>
-    <string>Roman</string>
+    <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>
