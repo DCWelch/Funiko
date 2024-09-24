@@ -169,15 +169,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
       <integer>0</integer>
     </array>
     <key>openTypeOS2Type</key>
-    <array>
-      <integer>2</integer>
-    </array>
+    <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>727</integer>
+    <integer>802</integer>
     <key>openTypeOS2TypoDescender</key>
     <integer>-191</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>43</integer>
+    <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>802</integer>
     <key>openTypeOS2WinDescent</key>

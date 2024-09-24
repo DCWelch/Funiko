@@ -198,5 +198,7 @@
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>nonbreakingspace</key>
+    <string>nonbreakingspace.glif</string>
   </dict>
 </plist>
