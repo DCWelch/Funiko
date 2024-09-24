@@ -580,3 +580,18 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinlookup0;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\NULL \CR \space \E \F \G \H \I \J \L \M \K \N \O \P \Q \R \S \T \V \W \X \Y \Z \U \a 
+	\b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \zero \one \two \three 
+	\four \five \six \seven \eight \nine \D \exclam \quotedbl \numbersign \dollar 
+	\percent \quotesingle \ampersand \parenleft \parenright \asterisk \plus \hyphen 
+	\period \comma \slash \at \grave \colon \semicolon \less \equal \question 
+	\underscore \asciicircum \bracketright \backslash \bracketleft \braceleft 
+	\braceright \asciitilde \bar \greater \A \B \C ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
