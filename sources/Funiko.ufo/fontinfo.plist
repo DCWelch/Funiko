@@ -173,7 +173,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>802</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-191</integer>
+    <integer>-226</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
