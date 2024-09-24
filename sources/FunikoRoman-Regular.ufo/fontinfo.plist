@@ -29,11 +29,11 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2024/09/24 19:01:58</string>
+    <string>2024/09/24 23:45:13</string>
     <key>openTypeHheaAscender</key>
-    <integer>802</integer>
+    <integer>937</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-226</integer>
+    <integer>-263</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -171,15 +171,15 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>802</integer>
+    <integer>937</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-226</integer>
+    <integer>-263</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>802</integer>
+    <integer>937</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>226</integer>
+    <integer>263</integer>
     <key>openTypeOS2SubscriptXSize</key>
     <integer>650</integer>
     <key>openTypeOS2SubscriptYSize</key>
