@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
   <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="246" y="688" type="line"/>
+      <point x="20" y="20" type="line"/>
+      <point x="246" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="688" type="line"/>
+      <point x="246" y="688" type="line"/>
+      <point x="246" y="20" type="line"/>
+      <point x="20" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="698" type="line"/>
+      <point x="256" y="698" type="line"/>
+      <point x="256" y="10" type="line"/>
+      <point x="10" y="10" type="line"/>
+    </contour>
+  </outline>
 </glyph>

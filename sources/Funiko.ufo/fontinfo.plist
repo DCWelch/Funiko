@@ -31,11 +31,11 @@
     <key>openTypeHeadCreated</key>
     <string>2024/09/24 12:21:32</string>
     <key>openTypeHheaAscender</key>
-    <integer>801</integer>
+    <integer>802</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-224</integer>
+    <integer>-226</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>22</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Polah (saipulkhurasan@gmail.com)</string>
     <key>openTypeNameDesignerURL</key>
@@ -179,9 +179,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2TypoLineGap</key>
     <integer>43</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>801</integer>
+    <integer>802</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>224</integer>
+    <integer>226</integer>
     <key>openTypeOS2SubscriptXSize</key>
     <integer>650</integer>
     <key>openTypeOS2SubscriptYSize</key>
