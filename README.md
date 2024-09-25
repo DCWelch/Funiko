@@ -4,7 +4,7 @@
 
 ### New repositories
 
-test6
+test7
 
 1. Hit the green button above ("Use this template") to create your own repository.
 
