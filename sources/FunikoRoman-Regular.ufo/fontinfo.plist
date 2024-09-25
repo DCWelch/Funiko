@@ -244,5 +244,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     </array>
     <key>guidelines</key>
     <array/>
+	<key>openTypeOS2Selection</key>
+    <array>
+        <integer>7</integer> 
+    </array>
   </dict>
 </plist>
