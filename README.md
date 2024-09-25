@@ -4,7 +4,11 @@
 
 ### New repositories
 
+<<<<<<< HEAD
 test8
+=======
+test7
+>>>>>>> 82a42ddf3d408ab9fd4f8fba8b1af710ba095038
 
 1. Hit the green button above ("Use this template") to create your own repository.
 
