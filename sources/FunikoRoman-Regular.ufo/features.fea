@@ -588,7 +588,7 @@ feature kern {
 	\period \comma \slash \at \grave \colon \semicolon \less \equal \question 
 	\underscore \asciicircum \bracketright \backslash \bracketleft \braceleft 
 	\braceright \asciitilde \bar \greater \A \B \C \nonbreakingspace \exclamdown 
-	\cent ];
+	\cent \sterling \yen ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

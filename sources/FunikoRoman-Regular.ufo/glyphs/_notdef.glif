@@ -3,21 +3,21 @@
   <advance width="266"/>
   <outline>
     <contour>
-      <point x="246" y="688" type="line"/>
-      <point x="20" y="20" type="line"/>
-      <point x="246" y="20" type="line"/>
+      <point x="236" y="678" type="line"/>
+      <point x="236" y="30" type="line" smooth="yes"/>
+      <point x="30" y="29" type="line"/>
     </contour>
     <contour>
       <point x="20" y="688" type="line"/>
       <point x="246" y="688" type="line"/>
       <point x="246" y="20" type="line"/>
-      <point x="20" y="20" type="line"/>
+      <point x="20" y="20" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="10" y="698" type="line"/>
       <point x="256" y="698" type="line"/>
-      <point x="256" y="10" type="line"/>
+      <point x="10" y="698" type="line"/>
       <point x="10" y="10" type="line"/>
+      <point x="256" y="10" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

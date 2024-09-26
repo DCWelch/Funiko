@@ -204,5 +204,9 @@
     <string>exclamdown.glif</string>
     <key>cent</key>
     <string>N_ameM_e.100.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
+    <key>yen</key>
+    <string>yen.glif</string>
   </dict>
 </plist>
