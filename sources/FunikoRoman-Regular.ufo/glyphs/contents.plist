@@ -208,5 +208,27 @@
     <string>sterling.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
+    <key>diaeresis</key>
+    <string>diaeresis.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
+    <key>guillemotleft</key>
+    <string>guillemotleft.glif</string>
+    <key>registered</key>
+    <string>registered.glif</string>
+    <key>macron</key>
+    <string>macron.glif</string>
+    <key>degree</key>
+    <string>degree.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>pilcrow</key>
+    <string>pilcrow.glif</string>
+    <key>middot</key>
+    <string>middot.glif</string>
   </dict>
 </plist>
