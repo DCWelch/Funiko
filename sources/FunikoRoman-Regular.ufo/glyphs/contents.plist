@@ -200,5 +200,9 @@
     <string>C_.glif</string>
     <key>nonbreakingspace</key>
     <string>nonbreakingspace.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
+    <key>cent</key>
+    <string>N_ameM_e.100.glif</string>
   </dict>
 </plist>

@@ -29,7 +29,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2024/09/24 23:45:13</string>
+    <string>2024/09/26 11:49:27</string>
     <key>openTypeHheaAscender</key>
     <integer>938</integer>
     <key>openTypeHheaDescender</key>
@@ -244,9 +244,5 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     </array>
     <key>guidelines</key>
     <array/>
-	<key>openTypeOS2Selection</key>
-    <array>
-        <integer>7</integer> 
-    </array>
   </dict>
 </plist>
