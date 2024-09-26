@@ -589,7 +589,8 @@ feature kern {
 	\underscore \asciicircum \bracketright \backslash \bracketleft \braceleft 
 	\braceright \asciitilde \bar \greater \A \B \C \nonbreakingspace \exclamdown 
 	\cent \sterling \yen \section \diaeresis \copyright \ordfeminine \guillemotleft 
-	\registered \macron \degree \acute \pilcrow \middot ];
+	\registered \macron \degree \acute \pilcrow \middot \cedilla \ordmasculine 
+	\guillemotright \questiondown ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

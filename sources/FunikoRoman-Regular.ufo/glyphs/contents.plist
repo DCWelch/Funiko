@@ -230,5 +230,13 @@
     <string>pilcrow.glif</string>
     <key>middot</key>
     <string>middot.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
+    <key>guillemotright</key>
+    <string>guillemotright.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
   </dict>
 </plist>
