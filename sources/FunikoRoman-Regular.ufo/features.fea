@@ -594,7 +594,14 @@ feature kern {
 	\Ccedilla \Eacute \Ecircumflex \Ediaeresis \Egrave \Igrave \Iacute \Icircumflex 
 	\Idiaeresis \Eth \Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odiaeresis 
 	\multiply \Oslash \Ugrave \Uacute \Ucircumflex \Udiaeresis \Yacute \Thorn 
-	\ssharp ];
+	\ssharp \agrave \aacute \acircumflex \NameMe.152 \NameMe.153 \aring \ae 
+	\ccedilla \egrave \eacute \ecircumflex \ediaeresis \igrave \iacute \icircumflex 
+	\idiaeresis \eth \ntilde \ograve \oacute \ocircumflex \otilde \odiaeresis 
+	\divide \oslash \ugrave \uacute \ucircumflex \udiaeresis \yacute \thorn 
+	\ydieresis \Amacron \amacron \Abreve \abreve \Aogonek \aogonek \Cacute \cacute 
+	\Ccircumflex \ccircumflex \Cdot \cdot \Dcaron \dcaron \Dslash \dslash \Emacron 
+	\emacron \Ebreve \ebreve \Edot \edot \Eogonek \eogonek \Gbreve \gbreve \Gdot \gdot 
+	\gcedilla \Gcedilla ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
