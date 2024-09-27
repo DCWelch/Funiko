@@ -424,5 +424,31 @@
     <string>gcedilla.glif</string>
     <key>Gcedilla</key>
     <string>G_cedilla.glif</string>
+    <key>Adiaeresis</key>
+    <string>A_diaeresis.glif</string>
+    <key>Ccaron</key>
+    <string>C_caron.glif</string>
+    <key>ccaron</key>
+    <string>ccaron.glif</string>
+    <key>Ecaron</key>
+    <string>E_caron.glif</string>
+    <key>ecaron</key>
+    <string>ecaron.glif</string>
+    <key>Hbar</key>
+    <string>H_bar.glif</string>
+    <key>hbar</key>
+    <string>hbar.glif</string>
+    <key>Imacron</key>
+    <string>I_macron.glif</string>
+    <key>Iogonek</key>
+    <string>I_ogonek.glif</string>
+    <key>Idot</key>
+    <string>I_dot.glif</string>
+    <key>imacron</key>
+    <string>imacron.glif</string>
+    <key>iogonek</key>
+    <string>iogonek.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
   </dict>
 </plist>

@@ -601,7 +601,8 @@ feature kern {
 	\ydieresis \Amacron \amacron \Abreve \abreve \Aogonek \aogonek \Cacute \cacute 
 	\Ccircumflex \ccircumflex \Cdot \cdot \Dcaron \dcaron \Dslash \dslash \Emacron 
 	\emacron \Ebreve \ebreve \Edot \edot \Eogonek \eogonek \Gbreve \gbreve \Gdot \gdot 
-	\gcedilla \Gcedilla ];
+	\gcedilla \Gcedilla \Adiaeresis \Ccaron \ccaron \Ecaron \ecaron \Hbar \hbar 
+	\Imacron \Iogonek \Idot \imacron \iogonek \dotlessi ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
