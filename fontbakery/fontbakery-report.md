@@ -10,40 +10,8 @@ fontbakery version: 0.12.10
 
 
 
-<details><summary>[12] FunikoRoman-Regular.ttf</summary>
+<details><summary>[11] FunikoRoman-Regular.ttf</summary>
 <div>
-<details>
-    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.glyphset.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Glyph present in the font</th>
-<th align="left">Missing case-swapping counterpart</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">U+00E4: LATIN SMALL LETTER A WITH DIAERESIS</td>
-<td align="left">U+00C4: LATIN CAPITAL LETTER A WITH DIAERESIS</td>
-</tr>
-</tbody>
-</table>
- [code: missing-case-counterparts]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>🔥 <b>FAIL</b> Shapes languages in all GF glyphsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.glyphset.html#"></a></summary>
     <div>
@@ -73,46 +41,7 @@ fontbakery version: 0.12.10
 
 
 * 🔥 **FAIL** <p>Missing required codepoints:</p>
-<pre><code>- 0x00C4 (LATIN CAPITAL LETTER A WITH DIAERESIS)
-
-
-- 0x010C (LATIN CAPITAL LETTER C WITH CARON)
-
-
-- 0x010D (LATIN SMALL LETTER C WITH CARON)
-
-
-- 0x011A (LATIN CAPITAL LETTER E WITH CARON)
-
-
-- 0x011B (LATIN SMALL LETTER E WITH CARON)
-
-
-- 0x0126 (LATIN CAPITAL LETTER H WITH STROKE)
-
-
-- 0x0127 (LATIN SMALL LETTER H WITH STROKE)
-
-
-- 0x012A (LATIN CAPITAL LETTER I WITH MACRON)
-
-
-- 0x012B (LATIN SMALL LETTER I WITH MACRON)
-
-
-- 0x012E (LATIN CAPITAL LETTER I WITH OGONEK)
-
-
-- 0x012F (LATIN SMALL LETTER I WITH OGONEK)
-
-
-- 0x0130 (LATIN CAPITAL LETTER I WITH DOT ABOVE)
-
-
-- 0x0131 (LATIN SMALL LETTER DOTLESS I)
-
-
-- 0x0136 (LATIN CAPITAL LETTER K WITH CEDILLA)
+<pre><code>- 0x0136 (LATIN CAPITAL LETTER K WITH CEDILLA)
 
 
 - 0x0137 (LATIN SMALL LETTER K WITH CEDILLA)
@@ -669,8 +598,8 @@ greater</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 4 | 9 | 120 | 7 | 111 | 0 | 
-| 0% | 0% | 2% | 4% | 48% | 3% | 44% | 0% | 
+| 0 | 0 | 3 | 9 | 120 | 7 | 112 | 0 | 
+| 0% | 0% | 1% | 4% | 48% | 3% | 45% | 0% | 
 
 
 
