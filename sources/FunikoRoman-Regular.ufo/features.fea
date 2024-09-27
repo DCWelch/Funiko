@@ -590,7 +590,11 @@ feature kern {
 	\braceright \asciitilde \bar \greater \A \B \C \nonbreakingspace \exclamdown 
 	\cent \sterling \yen \section \diaeresis \copyright \ordfeminine \guillemotleft 
 	\registered \macron \degree \acute \pilcrow \middot \cedilla \ordmasculine 
-	\guillemotright \questiondown ];
+	\guillemotright \questiondown \Agrave \Aacute \Acircumflex \Atilde \Aring \AE 
+	\Ccedilla \Eacute \Ecircumflex \Ediaeresis \Egrave \Igrave \Iacute \Icircumflex 
+	\Idiaeresis \Eth \Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odiaeresis 
+	\multiply \Oslash \Ugrave \Uacute \Ucircumflex \Udiaeresis \Yacute \Thorn 
+	\ssharp ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
