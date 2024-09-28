@@ -602,7 +602,13 @@ feature kern {
 	\Ccircumflex \ccircumflex \Cdot \cdot \Dcaron \dcaron \Dslash \dslash \Emacron 
 	\emacron \Ebreve \ebreve \Edot \edot \Eogonek \eogonek \Gbreve \gbreve \Gdot \gdot 
 	\gcedilla \Gcedilla \Adiaeresis \Ccaron \ccaron \Ecaron \ecaron \Hbar \hbar 
-	\Imacron \Iogonek \Idot \imacron \iogonek \dotlessi ];
+	\Imacron \Iogonek \Idot \imacron \iogonek \dotlessi \Kcedilla \kcedilla \Lacute 
+	\Lcedilla \Lcaron \Lslash \lacute \lcedilla \lcaron \lslash \Nacute \Ncedilla 
+	\NameMe.238 \nacute \ncedilla \ncaron \Odblacute \odblacute \OE \oe \Racute 
+	\Rcaron \racute \rcaron \Sacute \Scedilla \Scaron \sacute \scedilla \scaron 
+	\Tcaron \tcaron \Umacron \Uring \Udblacute \Uogonek \umacron \uring \udblacute 
+	\uogonek \wcircumflex \Wcircumflex \Ycircumflex \Ydiaeresis \ycircumflex 
+	\Zacute \Zdot \Zcaron \zacute \zdot \zcaron ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
