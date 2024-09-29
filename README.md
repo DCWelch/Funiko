@@ -22,6 +22,7 @@ Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ 
 ## About
 
 Polah Fonts is an independent designer based in Indonesia:  https://www.behance.net/saipulkhurasan
+
 DCWelch is an independent developer based in the United States and Scotland:  https://github.com/DCWelch
 
 ## Building
