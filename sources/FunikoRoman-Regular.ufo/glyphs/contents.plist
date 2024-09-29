@@ -652,5 +652,7 @@
     <string>euro.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
   </dict>
 </plist>

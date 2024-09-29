@@ -610,15 +610,16 @@ feature kern {
 	\uogonek \wcircumflex \Wcircumflex \Ycircumflex \Ydiaeresis \ycircumflex 
 	\Zacute \Zdot \Zcaron \zacute \zdot \zcaron \Scommaaccent \scommaaccent \u021A 
 	\u021B \dotlessj \caron \breve \dotaccent \ring \ogonek \tilde \hungarumlaut 
-	\gravecomb \acutecomb \circumflexcomb \tildecomb \macroncomb \brevecomb 
-	\dotaccentcmb \diaeresiscomb \ringcmb \acutedblnosp \caroncomb \commasubnosp 
-	\cedillacmb \ogonekcmb \Wgrave \Wacute \Wdiaeresis \wgrave \wacute \wdiaeresis 
-	\u1E9E \Ygrave \ygrave \endash \emdash \quoteleft \quoteright \quotesinglbase 
+	\gravecomb \circumflexcomb \tildecomb \macroncomb \brevecomb \dotaccentcmb 
+	\diaeresiscomb \ringcmb \acutedblnosp \caroncomb \commasubnosp \cedillacmb 
+	\ogonekcmb \Wgrave \Wacute \Wdiaeresis \wgrave \wacute \wdiaeresis \u1E9E 
+	\Ygrave \ygrave \endash \emdash \quoteleft \quoteright \quotesinglbase 
 	\quotedblleft \quotedblright \quotedblbase \bullet \ellipsis \guilsinglleft 
-	\guilsinglright \minus \euro \trademark ];
+	\guilsinglright \minus \euro \trademark \circumflex ];
+@GDEF_Mark = [\acutecomb ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
 
