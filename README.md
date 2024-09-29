@@ -15,7 +15,7 @@
 This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
 
 ![Sample Image](documentation/funiko1.jpg)
-![Sample Image](documentation/funiko2.png)
+![Sample Image](documentation/funiko2.jpg)
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
@@ -47,7 +47,7 @@ Changelog example:
 **1 May 2019. Version 1.000**
 - Original Release
 
-**31 September 2024. Version 2.000**
+**31 September 2024. Version 1.100**
 - Glyph coverage expanded to cover the full GF Latin Core set
 - Licensing clarified and updated to OFL
 - Trademarking clarified and updated
