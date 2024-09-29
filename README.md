@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ glyph set and adapted for Google Fonts by [DCWelch](https://github.com/DCWelch). This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
+[Funiko](github.com/DCWelch/Funiko) is a handwritten typeface by [Polah Type](https://www.behance.net/saipulkhurasan), expanded to the _GF Latin Core_ glyph set and adapted for [Google Fonts](https://github.com/googlefonts) by [DCWelch](https://github.com/DCWelch). This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
 
 ![Sample Image](documentation/funiko1.jpg)
 ![Sample Image](documentation/funiko2.jpg)
@@ -47,9 +47,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **31 September 2024. Version 1.100**
 - Glyph coverage expanded to cover the full GF Latin Core set
 - Licensing clarified and updated to OFL
-- Trademarking clarified and updated
-- Various changes to accomodate Google Fonts Fontbakery QA tests
-- Metadata updated
+- Other smaller changes to accomodate Google Font's Fontbakery QA tests
 
 ## License
 
