@@ -12,14 +12,19 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ glyph set and adapted for Google Fonts by DCWelch. This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
+This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
 
+![Sample Image](documentation/funiko1.jpg)
+![Sample Image](documentation/funiko2.png)
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ glyph set and adapted for Google Fonts by [DCWelch](https://github.com/DCWelch).
+
+Polah Fonts is an independent designer based in Indonesia:  https://www.behance.net/saipulkhurasan
+DCWelch is an independent developer based in the United States and Scotland:  https://github.com/DCWelch
 
 ## Building
 
@@ -39,9 +44,15 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**1 May 2019. Version 1.000**
+- Original Release
+
+**31 September 2024. Version 2.000**
+- Glyph coverage expanded to cover the full GF Latin Core set
+- Licensing clarified and updated to OFL
+- Trademarking clarified and updated
+- Various changes to accomodate Google Fonts Fontbakery QA tests
+- Metadata updated
 
 ## License
 
