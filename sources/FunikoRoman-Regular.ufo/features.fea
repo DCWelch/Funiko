@@ -608,7 +608,14 @@ feature kern {
 	\Rcaron \racute \rcaron \Sacute \Scedilla \Scaron \sacute \scedilla \scaron 
 	\Tcaron \tcaron \Umacron \Uring \Udblacute \Uogonek \umacron \uring \udblacute 
 	\uogonek \wcircumflex \Wcircumflex \Ycircumflex \Ydiaeresis \ycircumflex 
-	\Zacute \Zdot \Zcaron \zacute \zdot \zcaron ];
+	\Zacute \Zdot \Zcaron \zacute \zdot \zcaron \Scommaaccent \scommaaccent \u021A 
+	\u021B \dotlessj \caron \breve \dotaccent \ring \ogonek \tilde \hungarumlaut 
+	\gravecomb \acutecomb \circumflexcomb \tildecomb \macroncomb \brevecomb 
+	\dotaccentcmb \diaeresiscomb \ringcmb \acutedblnosp \caroncomb \commasubnosp 
+	\cedillacmb \ogonekcmb \Wgrave \Wacute \Wdiaeresis \wgrave \wacute \wdiaeresis 
+	\u1E9E \Ygrave \ygrave \endash \emdash \quoteleft \quoteright \quotesinglbase 
+	\quotedblleft \quotedblright \quotedblbase \bullet \ellipsis \guilsinglleft 
+	\guilsinglright \minus \euro \trademark ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

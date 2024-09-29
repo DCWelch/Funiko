@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdiaeresis" format="2">
+  <advance width="632"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="380.84" y="715.215" type="curve" smooth="yes"/>
+      <point x="376.565" y="707.521"/>
+      <point x="376.565" y="695.55"/>
+      <point x="374" y="687" type="curve" smooth="yes"/>
+      <point x="365.45" y="656.221"/>
+      <point x="324.41" y="665.625"/>
+      <point x="326.975" y="695.55" type="curve" smooth="yes"/>
+      <point x="326.975" y="707.521"/>
+      <point x="332.96" y="719.49"/>
+      <point x="332.96" y="731.461" type="curve"/>
+      <point x="352.625" y="771.646"/>
+      <point x="386.825" y="747.705"/>
+    </contour>
+    <contour>
+      <point x="292.775" y="715.215" type="curve" smooth="yes"/>
+      <point x="288.5" y="707.521"/>
+      <point x="288.5" y="695.55"/>
+      <point x="285.935" y="687" type="curve" smooth="yes"/>
+      <point x="277.385" y="656.221"/>
+      <point x="236.345" y="665.625"/>
+      <point x="238.91" y="695.55" type="curve" smooth="yes"/>
+      <point x="238.91" y="707.521"/>
+      <point x="244.895" y="719.49"/>
+      <point x="244.895" y="731.461" type="curve"/>
+      <point x="264.56" y="771.646"/>
+      <point x="298.76" y="747.705"/>
+    </contour>
+    <contour>
+      <point x="298" y="169" type="curve"/>
+      <point x="276" y="115"/>
+      <point x="257" y="60"/>
+      <point x="212" y="23" type="curve" smooth="yes"/>
+      <point x="168" y="-13"/>
+      <point x="121" y="-9"/>
+      <point x="84" y="32" type="curve" smooth="yes"/>
+      <point x="53" y="64"/>
+      <point x="33" y="104"/>
+      <point x="21" y="146" type="curve" smooth="yes"/>
+      <point x="1" y="222"/>
+      <point x="-4" y="302"/>
+      <point x="3" y="380" type="curve" smooth="yes"/>
+      <point x="9" y="435"/>
+      <point x="16" y="592"/>
+      <point x="82" y="616" type="curve" smooth="yes"/>
+      <point x="112" y="623"/>
+      <point x="136" y="582"/>
+      <point x="107" y="564" type="curve" smooth="yes"/>
+      <point x="91" y="555"/>
+      <point x="85" y="542"/>
+      <point x="82" y="527" type="curve" smooth="yes"/>
+      <point x="54" y="415"/>
+      <point x="46" y="304"/>
+      <point x="69" y="192" type="curve" smooth="yes"/>
+      <point x="90" y="92"/>
+      <point x="176" y="-14"/>
+      <point x="228" y="144" type="curve" smooth="yes"/>
+      <point x="274" y="286"/>
+      <point x="271" y="418"/>
+      <point x="282" y="557" type="curve" smooth="yes"/>
+      <point x="284" y="566"/>
+      <point x="285" y="575"/>
+      <point x="288" y="583" type="curve" smooth="yes"/>
+      <point x="303" y="613"/>
+      <point x="329" y="599"/>
+      <point x="341" y="580" type="curve" smooth="yes"/>
+      <point x="345" y="573"/>
+      <point x="343" y="563"/>
+      <point x="342" y="554" type="curve" smooth="yes"/>
+      <point x="337" y="490"/>
+      <point x="331" y="427"/>
+      <point x="329" y="363" type="curve" smooth="yes"/>
+      <point x="325" y="291"/>
+      <point x="340" y="199"/>
+      <point x="367" y="134" type="curve"/>
+      <point x="413" y="-3"/>
+      <point x="477" y="100"/>
+      <point x="497" y="185" type="curve" smooth="yes"/>
+      <point x="528" y="315"/>
+      <point x="510" y="459"/>
+      <point x="466" y="580" type="curve"/>
+      <point x="455" y="624"/>
+      <point x="499" y="641"/>
+      <point x="519" y="608" type="curve" smooth="yes"/>
+      <point x="521" y="605"/>
+      <point x="522" y="602"/>
+      <point x="523" y="597" type="curve" smooth="yes"/>
+      <point x="565" y="465"/>
+      <point x="586" y="311"/>
+      <point x="549" y="169" type="curve" smooth="yes"/>
+      <point x="540" y="133"/>
+      <point x="527" y="96"/>
+      <point x="507" y="63" type="curve" smooth="yes"/>
+      <point x="468" y="-6"/>
+      <point x="403" y="-14"/>
+      <point x="355" y="44" type="curve" smooth="yes"/>
+      <point x="328" y="75"/>
+      <point x="314" y="134"/>
+    </contour>
+  </outline>
+</glyph>

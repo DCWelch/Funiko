@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diaeresiscomb" format="2">
+  <advance width="380"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="264.84" y="759.215" type="curve" smooth="yes"/>
+      <point x="260.565" y="751.521"/>
+      <point x="260.565" y="739.55"/>
+      <point x="258" y="731" type="curve" smooth="yes"/>
+      <point x="249.45" y="700.221"/>
+      <point x="208.41" y="709.625"/>
+      <point x="210.975" y="739.55" type="curve" smooth="yes"/>
+      <point x="210.975" y="751.521"/>
+      <point x="216.96" y="763.49"/>
+      <point x="216.96" y="775.461" type="curve"/>
+      <point x="236.625" y="815.646"/>
+      <point x="270.825" y="791.705"/>
+    </contour>
+    <contour>
+      <point x="176.775" y="759.215" type="curve" smooth="yes"/>
+      <point x="172.5" y="751.521"/>
+      <point x="172.5" y="739.55"/>
+      <point x="169.935" y="731" type="curve" smooth="yes"/>
+      <point x="161.385" y="700.221"/>
+      <point x="120.345" y="709.625"/>
+      <point x="122.91" y="739.55" type="curve" smooth="yes"/>
+      <point x="122.91" y="751.521"/>
+      <point x="128.895" y="763.49"/>
+      <point x="128.895" y="775.461" type="curve"/>
+      <point x="148.56" y="815.646"/>
+      <point x="182.76" y="791.705"/>
+    </contour>
+  </outline>
+</glyph>
