@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FUniversal.json
 
-This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
+Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ glyph set and adapted for Google Fonts by [DCWelch](https://github.com/DCWelch). This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
 
 ![Sample Image](documentation/funiko1.jpg)
 ![Sample Image](documentation/funiko2.jpg)
@@ -20,8 +20,6 @@ This casual typeface is characterized by subtle inconsistencies that add to the 
 ![Sample Image](documentation/image2.png)
 
 ## About
-
-Funiko is a handwritten typeface by Polah Type, expanded to the _GF Latin Core_ glyph set and adapted for Google Fonts by [DCWelch](https://github.com/DCWelch).
 
 Polah Fonts is an independent designer based in Indonesia:  https://www.behance.net/saipulkhurasan
 DCWelch is an independent developer based in the United States and Scotland:  https://github.com/DCWelch
@@ -40,9 +38,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
+[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
 
 **1 May 2019. Version 1.000**
 - Original Release
