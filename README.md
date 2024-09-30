@@ -1,16 +1,16 @@
 
 # Funiko
 
-[![][Fontbakery]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)
-[![][Universal]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)
+<!--[![][Fontbakery]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)-->
+<!--[![][Universal]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)-->
+<!--[![][GF Profile]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)-->
+<!--[![][Shaping]](https://DCWelch.github.io/Funiko/fontbakery/fontbakery-report.html)-->
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FUniversal.json
+<!--[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2Foverall.json-->
+<!--[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FGoogleFonts.json-->
+<!--[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json-->
+<!--[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FShapingChecks.json-->
+<!--[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDCWelch%2FFuniko%2Fgh-pages%2Fbadges%2FUniversal.json-->
 
 [Funiko](github.com/DCWelch/Funiko) is a handwritten typeface by [Polah Type](https://www.behance.net/saipulkhurasan), expanded to the _GF Latin Core_ glyph set and adapted for [Google Fonts](https://github.com/googlefonts) by [DCWelch](https://github.com/DCWelch). This casual typeface is characterized by subtle inconsistencies that add to the font's organic, natural feel while remaining clean and presentable. Funiko brings a personal touch of creativity and spontaneity, adapting beautifully to traditional or all-caps settings, offering a unique yet cohesive feel in each.
 
