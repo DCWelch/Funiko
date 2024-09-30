@@ -13,7 +13,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>100</integer>
     <key>copyright</key>
     <string>Copyright 2019 The Funiko Project Authors (https://github.com/DCWelch/Funiko)</string>
     <key>unitsPerEm</key>
@@ -37,7 +37,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Polah (saipulkhurasan@gmail.com)</string>
+    <string>Polah (saipulkhurasan@gmail.com), expanded to the GF Latin Core glyph set by David Welch (https://github.com/DCWelch)</string>
     <key>openTypeNameDesignerURL</key>
     <string>www.khurasan.net</string>
     <key>openTypeNameManufacturer</key>
@@ -139,11 +139,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.001</string>
+    <string>Version 1.100</string>
     <key>openTypeNameUniqueID</key>
     <string>Polah: Funiko : 2019</string>
     <key>openTypeNameDescription</key>
-    <string>A handwriting typeface by Polah</string>
+    <string>A handwritten typeface by Polah</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
@@ -244,7 +244,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     </array>
     <key>guidelines</key>
     <array/>
-    <key>openTypeOS2Selection</key>
+	<key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
     </array>
