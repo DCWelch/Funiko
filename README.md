@@ -19,12 +19,6 @@
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
-## About
-
-Polah Fonts is an independent designer based in Indonesia:  https://www.behance.net/saipulkhurasan
-
-DCWelch is an independent developer based in the United States and Scotland:  https://github.com/DCWelch
-
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
