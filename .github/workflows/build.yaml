@@ -42,6 +42,11 @@ jobs:
     #       bumpfontversion sources/$src --new-version $TAG_NAME;
     #     done
 
+    # -------------------
+    - name: Install cairo
+      run: sudo apt-get install libcairo2-dev
+    # -------------------
+    
     - name: Build font
       run: make build
     - name: Check with fontbakery
