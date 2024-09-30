@@ -47,6 +47,8 @@ jobs:
     - name: Check with fontbakery
       run: make test
       continue-on-error: true
+    - name: List fontbakery directory contents
+      run: ls -la fontbakery/
     - name: proof
       run: make proof
     - name: setup site
