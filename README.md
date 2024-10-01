@@ -38,7 +38,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **1 May 2019. Version 1.000**
 - Original Release
 
-**30 September 2024. Version 1.100**
+**1 October 2024. Version 1.100**
 - Glyph set expanded to cover the full GF Latin Core
 - Licensing clarified and updated to OFL
 - Other smaller changes to accomodate Google Font's Fontbakery QA tests
