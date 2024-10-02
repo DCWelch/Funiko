@@ -40,7 +40,6 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 **2 October 2024. Version 1.100**
 - Glyph set expanded to cover the full GF Latin Core
-- Licensing clarified and updated to OFL
 - Other smaller changes to accomodate Google Font's Fontbakery QA tests
 
 ## License
