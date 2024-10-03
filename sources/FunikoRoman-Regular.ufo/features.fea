@@ -575,11 +575,14 @@ lookup kernHorizontalKerninginLatinlookup0 {
 } kernHorizontalKerninginLatinlookup0;
 
 feature kern {
-
- script latn;
-     language dflt ;
-      lookup kernHorizontalKerninginLatinlookup0;
+    script DFLT;
+        language dflt;
+        lookup kernHorizontalKerninginLatinlookup0;
+    script latn;
+        language dflt;
+        lookup kernHorizontalKerninginLatinlookup0;
 } kern;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\NULL \CR \space \E \F \G \H \I \J \L \M \K \N \O \P \Q \R \S \T \V \W \X \Y \Z \U \a 
